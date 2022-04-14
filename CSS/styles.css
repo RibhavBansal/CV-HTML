@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(161, 139, 180, 0.488);
+}
+hr {
+  border-style: dotted none none;
+  border-color: gray;
+  border-width: 5px;
+  width: 15%;
+}
+h1 {
+    color: #06113C;
+}
+h2 {
+    color: #06113C;
+}
+.image {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
